@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\Web Development"
+		},
+		{
+			"path": "..\\..\\MERNBOOTCAMP"
+		},
+		{
+			"path": "..\\HTMLCSSPROJECT"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JSPROJB1"
+	}
+}
