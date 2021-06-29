@@ -93,7 +93,7 @@ const editCard = (event) => {
 
     let parentElement;
 
-    if(tagname === "Button") {
+    if(tagname === "BUTTON") {
         parentElement = event.target.parentNode.parentNode;
     } else { 
         parentElement = event.target.parentNode.parentNode.parentNode;
@@ -118,7 +118,7 @@ const saveEditChanges = (event) => {
 
     let parentElement;
 
-    if(tagname === "Button") {
+    if(tagname === "BUTTON") {
         parentElement = event.target.parentNode.parentNode;
     } else { 
         parentElement = event.target.parentNode.parentNode.parentNode;
